@@ -1,0 +1,7 @@
+Its a command line application to find out number of tweets of a given twitter handle in given days.
+By default it takes handle as 'PravinNagare' and num_of_days as '7'.
+
+To run this file:
+python twitter_handle.py handle num_of_days
+
+eg: python twitter_handle.py PravinNagare 7
